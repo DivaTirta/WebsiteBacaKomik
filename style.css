@@ -1,0 +1,35 @@
+.MBackground {
+  background-image: url(img/Wallpaper.jpg);
+  background-size: cover;
+}
+
+.carousel-item {
+  padding: 10% 30%;
+  height:  950px;
+}
+
+.manga-image {
+	height: auto;
+	max-width: 100%;
+}
+
+.LBackground {
+	background-image: url(img/Wallpaper.jpg);
+  	background-size: cover;
+}
+
+.cont-login{
+	height: 80%;
+	width: 30%;
+	margin-top: 9%;
+	box-shadow: 0 3px 20px;
+	padding: 40px;
+}
+button {
+	width: 48%;
+}
+
+.cont-bookmark {
+	box-shadow: 0 0px 5px;
+}
+
